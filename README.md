@@ -1,5 +1,5 @@
 # Ada
 Learning the Ada Programming Language
 
-##Resources
+## Resources
 https://learn.adacore.com/
